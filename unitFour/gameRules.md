@@ -1,0 +1,6 @@
+- Survive the round
+- Turn Based Fighting
+- 9 rooms in a square
+- Enemies spawn from the edge and go to the player
+- Enemies constantly spawn
+- Player gets evacuation at the end of the round
